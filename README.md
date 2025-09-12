@@ -221,12 +221,12 @@
 
 <section id="about" class="active">
   <h2>About Me</h2>
-  <p>I'm a <b>Assistant Professor</b> i am stdying mohamed satak college of arts and science </p>
+  <p>I'm a <b>Assistant Professor</b> i am stdying mohamed Sathak college of arts and science </p>
 </section>
 
 <section id="education">
   <h2>Education</h2>
-  <p>B.C.A(Pursuing)</p>
+  <p>B.C.A(Pursing)</p>
 </section>
 
 <section id="skills">
