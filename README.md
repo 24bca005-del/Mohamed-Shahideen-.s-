@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Monika</title>
+  <title>Mohamed shahideen s</title>
   <style>
     * {
       margin: 0;
@@ -200,7 +200,7 @@
   <button class="dark-toggle" onclick="toggleDarkMode()">Toggle Dark Mode</button>
   <img src="./6016a.jpg" alt="Profile Picture" class="profile-picture" id="profileImage" style="margin: 0 1rem 0 0; align-self: flex-start;">
   <div style="text-align: left;">
-    <h1>Monika- 24BCA077</h1>
+    <h1>Mohamed shahideen- 24bca005</h1>
     
   </div>
   <p>Assistant Professor</p>
@@ -221,12 +221,12 @@
 
 <section id="about" class="active">
   <h2>About Me</h2>
-  <p>I'm a <b>Assistant Professor</b> and technology enthusiast with over 23 years of experience. I help organizations build secure systems and educate others about online safety. I’m passionate about cybersecurity and AI technologies.</p>
+  <p>I'm a <b>Assistant Professor</b> i am stdying mohamed satak college of arts and science </p>
 </section>
 
 <section id="education">
   <h2>Education</h2>
-  <p>M.C.A.,M.Phil.,Ph.D(Pursuing)</p>
+  <p>B.C.A(Pursuing)</p>
 </section>
 
 <section id="skills">
@@ -304,7 +304,7 @@
 </section>
 
 <footer>
-  <p>&copy; 2025 JOTHI SUBASHINI.V. All rights reserved.</p>
+  <p>&copy; 2025 MOHAMED SHAHIDEEN.S All rights reserved.</p>
 </footer>
 
 <div class="modal" id="passwordModal">
